@@ -1,2 +1,2 @@
-local a = "testes"
+local a = "changed"
 return a
