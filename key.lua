@@ -1,2 +1,2 @@
-local a = "changed"
+local a = "GhostHubUpdatedAgain!"
 return a
