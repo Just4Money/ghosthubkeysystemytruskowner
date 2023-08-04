@@ -1,2 +1,2 @@
-local a = "GhostHubUpdatedAgain!"
+local a = "YTRUSKBESTCODER"
 return a
