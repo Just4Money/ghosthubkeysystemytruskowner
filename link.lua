@@ -1,2 +1,2 @@
-local as = "https://link-target.net/901661/ghost-key"
+local as = "https://direct-link.net/901661/key"
 return as

@@ -1,2 +1,2 @@
-local a = "YTRUSKBESTCODER"
+local a = "yTruskbeautiful"
 return a
